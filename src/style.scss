@@ -379,6 +379,7 @@ body{
                         margin-bottom: 17px;
                         padding: 9px 52px;
                         background-color: #CA8125;
+                        border-radius: 15px;
                     }
                     @include flex-parameter(center, column, center);
                     img{
